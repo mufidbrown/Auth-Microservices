@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Microservices.iml" filepath="$PROJECT_DIR$/.idea/Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/be-config-server/be-config-server.iml" filepath="$PROJECT_DIR$/be-config-server/be-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/be-discovery/be-discovery.iml" filepath="$PROJECT_DIR$/be-discovery/be-discovery.iml" />
+    </modules>
+  </component>
+</project>
