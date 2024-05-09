@@ -1,0 +1,13 @@
+server:
+  port: 8761
+
+spring:
+  profiles:
+    active: native
+  application:
+    name: discovery
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/configs
