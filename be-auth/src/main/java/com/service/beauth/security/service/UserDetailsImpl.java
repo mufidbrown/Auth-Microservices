@@ -1,4 +1,4 @@
-package com.service.beauth.security;
+package com.service.beauth.security.service;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.service.beauth.entity.User;

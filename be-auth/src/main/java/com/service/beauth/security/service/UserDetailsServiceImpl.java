@@ -1,8 +1,9 @@
-package com.service.beauth.security;
+package com.service.beauth.security.service;
 
 import com.service.beauth.constant.Constant;
 import com.service.beauth.entity.User;
 import com.service.beauth.repository.UserRepository;
+import com.service.beauth.security.service.UserDetailsImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
