@@ -83,5 +83,5 @@ public class WebSecurityConfig {
         source.registerCorsConfiguration("/**", corsConfiguration);
         return source;
     }
-    
+
 }
