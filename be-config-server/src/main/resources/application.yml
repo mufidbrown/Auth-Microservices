@@ -1,11 +1,11 @@
 server:
-  port: 8761
+  port: 8888
 
 spring:
   profiles:
     active: native
   application:
-    name: discovery
+    name: config-server
   cloud:
     config:
       server:

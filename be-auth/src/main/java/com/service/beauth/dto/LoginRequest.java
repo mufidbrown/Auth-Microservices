@@ -1,5 +1,6 @@
 package com.service.beauth.dto;
 
+import com.service.beauth.constant.Constant;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 import jakarta.validation.constraints.Pattern;

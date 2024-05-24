@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="be-discovery" />
         <module name="be-auth" />
+        <module name="be-gateway" />
         <module name="be-config-server" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="be-auth" options="-parameters" />
       <module name="be-config-server" options="-parameters" />
       <module name="be-discovery" options="-parameters" />
+      <module name="be-gateway" options="-parameters" />
     </option>
   </component>
 </project>
