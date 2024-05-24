@@ -10,6 +10,7 @@
         <module name="be-discovery" />
         <module name="be-auth" />
         <module name="be-gateway" />
+        <module name="be-catalog" />
         <module name="be-config-server" />
       </profile>
     </annotationProcessing>
@@ -21,6 +22,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="be-auth" options="-parameters" />
+      <module name="be-catalog" options="-parameters" />
       <module name="be-config-server" options="-parameters" />
       <module name="be-discovery" options="-parameters" />
       <module name="be-gateway" options="-parameters" />
